@@ -118,7 +118,7 @@
 ```python
 class Pratham:
     def __init__(self):
-        self.name = "Pratham Pawar"
+        self.name = "Pratham Paliwal"
         self.role = "Full Stack Developer"
         self.language_spoken = ["en_US", "hi_IN"]
     
