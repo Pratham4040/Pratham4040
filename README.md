@@ -1,8 +1,3 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:0D1117&height=120&section=header" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Pratham+Paliwal+%F0%9F%91%8B;AI+%2F+ML+Engineer+%F0%9F%A4%96;Computer+Vision+%7C+Deep+Learning;Building+intelligent+systems+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
