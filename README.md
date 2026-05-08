@@ -1,15 +1,3 @@
-
-<br/>
-
-<img src="https://img.shields.io/badge/AI%20%2F%20ML-Engineer-A9FEF7?style=flat-square&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Computer%20Vision-OpenCV-5C3EE8?style=flat-square&labelColor=0D1117&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/Deep%20Learning-TensorFlow%20%7C%20PyTorch-FF6F00?style=flat-square&labelColor=0D1117&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Based%20in-India-FF9933?style=flat-square&labelColor=0D1117" />
-
-</div>
-
----
-
 ## About
 
 ML/AI engineer and full-stack developer passionate about building production-ready intelligent systems — from computer vision pipelines to real-time pose estimation and neural network controllers. I focus on end-to-end AI applications with clean backend architecture.
