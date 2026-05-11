@@ -1,105 +1,171 @@
-## About
+# 🎌 Welcome to My Profile! 🎌
 
-ML/AI engineer and full-stack developer passionate about building production-ready intelligent systems — from computer vision pipelines to real-time pose estimation and neural network controllers. I focus on end-to-end AI applications with clean backend architecture.
+```
+    ╔═══════════════════════════════════════════════════════════════╗
+    ║                                                             ║
+    ║     ∧＿∧     ✧･ﾟ: *✧･ﾟ:*      (ﾉ◕ヮ◕)ﾉ*:・゚✧       ✧･ﾟ: *✧･ﾟ:*  ║
+    ║     ( ･ω･)    ～ Welcome! ～    ～ to my ～       (・∀・)      ║
+    ║     / づ♡づ\                      profile!    づ〜〜〜         ║
+    ║                                                             ║
+    ╚═══════════════════════════════════════════════════════════════╝
+```
 
-- 🤖 Building AI-powered apps with **TensorFlow**, **PyTorch**, **MediaPipe**, and **OpenCV**
-- 🧠 Interested in **computer vision**, **deep learning**, and **neural network-based control systems**
-- 🌐 Full-stack experience with **FastAPI**, **React**, and **TypeScript**
-- 📍 India · Open to AI/ML roles
+### Hi there! I'm **Prathamesh** (but you can call me **Pratham**) ✨
 
----
+> *"Building the future, one commit at a time ⚡"*
+> *"Debugging life, one coffee at a time ☕"*
 
-## Tech Stack
-
-<div align="center">
-
-**AI / ML**
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/MediaPipe-00897B?style=flat-square&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-
-**Backend & APIs**
-
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-
-**Frontend**
-
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-
-**Tools**
-
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/VS%20Code-0078D4?style=flat-square&logo=visualstudiocode&logoColor=white" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
-
-</div>
+🎓 **Engineering Student** | 🌍 **India** | 🔭 **AI/ML Enthusiast** | 🎮 **Anime Fan**
 
 ---
 
-## Projects
+## 🔥 About Me
 
-### AI / ML
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║   (°▽°)  "I turn caffeine into code since 2024!"  (◕‿◕)        ║
+║          "Also turning pizza into bugs since... always 🍕"      ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
-| Project | Description | Stack |
-|---|---|---|
-| [**AIDanceCoach**](https://github.com/Pratham4040/AIDanceCoach) | Real-time AI dance coach using pose estimation and movement analysis | Python · MediaPipe · OpenCV |
-| [**ANYFITCOACH**](https://github.com/Pratham4040/ANYFITCOACH) | AI fitness coach supporting any exercise with real-time feedback | JavaScript · AI |
-| [**NN_PID_Autotuner**](https://github.com/Pratham4040/NN_PID_Autotuner) | Neural network-based PID controller autotuner | Python · Deep Learning |
-| [**How is my Banana?**](https://github.com/Pratham4040/How_is_my_Banana_backend) | ML model to predict banana ripeness from images | Python · TensorFlow · FastAPI |
-| [**SearchThatImage**](https://github.com/Pratham4040/SearchThatImage) | Reverse image search engine powered by ML | Python · Computer Vision |
-| [**CVD Simulator**](https://github.com/Pratham4040/CVD_Backend) | Color Vision Deficiency simulator using image processing | Python · OpenCV · FastAPI |
+- 💻 Currently building **AI-powered applications** and diving deep into **deep learning**
+- 🧠 Obsessed with **Computer Vision**, **Neural Networks**, and **Embedded Systems**
+- 🎮 When AFK: Probably watching anime (Naruto, Death Note vibes) or gaming
+- 📚 Always learning something new *(today's lesson: `git push --force` is a cardinal sin)*
+- 😴 Sleep? What's sleep? *(ﾉ´Д`)ノ*
 
-### Full Stack
-
-| Project | Description | Stack |
-|---|---|---|
-| [**CodeVisualizer**](https://github.com/Pratham4040/CodeVisualizer) | Step-by-step code execution visualizer | Python · TypeScript · React |
-| [**AI Notes Generator**](https://github.com/Pratham4040/Ai-Notes-Generator) | Smart notes generator powered by Gemini API | HTML · JS · Gemini API |
-| [**Print-IT**](https://github.com/Pratham4040/Print-IT) | Print vending machine web interface | HTML · CSS · JS |
-
----
-
-## GitHub Stats
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Pratham4040&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A9FEF7&icon_color=A9FEF7&text_color=C9D1D9"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratham4040&layout=compact&langs_count=6&theme=radical&hide_border=true&bg_color=0D1117&title_color=A9FEF7&text_color=C9D1D9"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pratham4040&theme=radical&hide_border=true&background=0D1117&ring=A9FEF7&fire=A9FEF7&currStreakLabel=A9FEF7" alt="GitHub Streak" />
-</div>
-
----
-
-## Currently
-
-```python
-class Pratham:
-    name     = "Pratham Paliwal"
-    role     = "AI / ML Engineer · Full Stack Developer"
-    location = "India"
-
-    focus    = ["Computer Vision", "Deep Learning", "Neural Networks"]
-    building = ["AI Dance & Fitness Coaches", "NN-based PID Controllers", "Vision ML APIs"]
-    open_to  = ["AI/ML Engineering roles", "Research collaborations", "Open Source"]
+### 🎯 Currently Learning/Working On
+```
+┌─────────────────────────────────────────────────────────┐
+│  🐍 Python + TensorFlow      │ 🧠 Neural Networks       │
+│  👁️ Computer Vision          │ 📡 Embedded Systems      │
+│  🌐 Full Stack Web Dev        │ 🎨 Making things pretty  │
+└─────────────────────────────────────────────────────────┘
 ```
 
 ---
 
+## 🛠️ Tech Arsenal ⚔️
+
+### 🎯 AI / Machine Learning
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+  <img src="https://img.shields.io/badge/MediaPipe-00A8E8?style=for-the-badge&logo=google&logoColor=white" alt="MediaPipe"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+</p>
+
+### 🌐 Web Development
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+</p>
+
+### 🔧 Tools & Others
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Jupyter-FF6F00?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 AI / Machine Learning
+| ⭐ | Project | Description | Tech Stack |
+|---|---------|-------------|------------|
+| 🎯 | [AIDanceCoach](https://github.com/Pratham4040/AIDanceCoach) | AI-powered dance coach with pose estimation & real-time feedback | Python + MediaPipe + JavaScript |
+| 🔥 | [SearchThatImage](https://github.com/Pratham4040/SearchThatImage) | Reverse image search powered by ML | Python + Computer Vision |
+| ✨ | [CVD_Backend](https://github.com/Pratham4040/CVD_Backend) | Color Vision Deficiency simulator | Python + FastAPI + OpenCV |
+| 🎯 | [NN_PID_Autotuner](https://github.com/Pratham4040/NN_PID_Autotuner) | Neural Network-based PID autotuner | Python + Deep Learning |
+| 🍌 | [How is my Banana?](https://github.com/Pratham4040/How_is_my_Banana_backend) | ML model to predict banana ripeness | Python + TensorFlow |
+| 🏋️ | [ANYFITCOACH](https://github.com/Pratham4040/ANYFITCOACH) | AI fitness coaching with real-time feedback | JavaScript + AI |
+
+### 🌐 Full Stack Web
+| ⭐ | Project | Description | Tech Stack |
+|---|---------|-------------|------------|
+| 🎯 | [CodeVisualizer](https://github.com/Pratham4040/CodeVisualizer) | Step-by-step code execution visualizer | Python + React + TypeScript |
+| ✨ | [Ai-Notes-Generator](https://github.com/Pratham4040/Ai-Notes-Generator) | Smart notes generator powered by Gemini AI | HTML + JS + Gemini API |
+| 🖨️ | [Print-IT](https://github.com/Pratham4040/Print-IT) | Print vending machine web interface | HTML + CSS + JS |
+| 🌟 | [PortfolioWebsite](https://github.com/Pratham4040/PortfolioWebsite) | This very portfolio! | HTML + CSS + JS |
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Pratham4040&label=Profile+Views&color=A9FEF7&style=flat-square" alt="Profile views" />
+![Pratham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pratham4040&show_icons=true&theme=radical&bg_color=0D1117&title_color=A9FEF7&text_color=C9D1D9&icon_color=A9FEF7&count_private=true&include_all_commits=true)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:0D1117&height=80&section=footer" width="100%"/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pratham4040&layout=compact&langs_count=8&theme=radical&bg_color=0D1117&title_color=A9FEF7&text_color=C9D1D9)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Pratham4040&theme=radical&background=0D1117&ring=A9FEF7&fire=A9FEF7&currStreakLabel=A9FEF7)
 
 </div>
+
+---
+
+## 🎮 Connect With Me!
+
+```
+╔═══════════════════════════════════════════════════════════════════════╗
+║                                                                       ║
+║     ✧･ﾟ: *✧･ﾟ:*   LET'S BUILD SOMETHING AMAZING TOGETHER!   ✧･ﾟ: *✧･ﾟ:*     ║
+║                                                                       ║
+║              (ﾉ◕ヮ◕)ﾉ*:・゚✧  Feel free to reach out!  ✧･ﾟ: *✧･ﾟ:        ║
+║                                                                       ║
+╚═══════════════════════════════════════════════════════════════════════╝
+```
+
+<p align="center">
+  <a href="https://github.com/Pratham4040">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:prathameshpaliwal19@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+---
+
+## ⚡ Currently
+
+```python
+class Pratham:
+    name     = "Prathamesh Mohan Paliwal"
+    aka      = "Pratham"  # easier to type!
+    role     = "AI/ML Engineer ⚡ Full Stack Developer"
+    location = "India 🇮🇳"
+    
+    focus    = ["Computer Vision", "Deep Learning", "Neural Networks"]
+    building = ["AI Dance & Fitness Coaches", "Vision ML APIs", "Cool Stuff"]
+    open_to  = ["AI/ML Engineering roles", "Research collaborations", "Open Source"]
+    
+    status   = "Debugging life... (ﾉ´Д`)ノ"
+```
+
+---
+
+```
+    ★ · . · ★ · . · ★ · . · ★ · . · ★ · . · ★ · . · ★
+              Thanks for visiting! (ﾉ◕ヮ◕)ﾉ*:・゚✧
+              Sayonara! ~ Pratham ✨
+    ★ · . · ★ · . · ★ · . · ★ · . · ★ · . · ★ · . · ★
+```
+
+<img src="https://komarev.com/ghpvc/?username=Pratham4040&label=Profile+Views&color=A9FEF7&style=flat-square" alt="Profile Views"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:A9FEF7,100:0D1117&height=80&section=footer&animation=twinkle" width="100%"/>
