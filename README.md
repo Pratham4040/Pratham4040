@@ -34,40 +34,6 @@ I specialize in developing AI-powered applications with a focus on computer visi
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
----
-
-## Featured Projects
-
-### AI / Machine Learning
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [AIDanceCoach](https://github.com/Pratham4040/AIDanceCoach) | AI-powered dance coach with pose estimation and real-time feedback | Python, MediaPipe, JavaScript |
-| [SearchThatImage](https://github.com/Pratham4040/SearchThatImage) | Reverse image search engine powered by ML | Python, Computer Vision |
-| [CVD_Backend](https://github.com/Pratham4040/CVD_Backend) | Color Vision Deficiency simulator | Python, FastAPI, OpenCV |
-| [NN_PID_Autotuner](https://github.com/Pratham4040/NN_PID_Autotuner) | Neural network-based PID controller autotuner | Python, Deep Learning |
-| [How is my Banana?](https://github.com/Pratham4040/How_is_my_Banana_backend) | ML model to predict banana ripeness from images | Python, TensorFlow |
-| [ANYFITCOACH](https://github.com/Pratham4040/ANYFITCOACH) | AI fitness coach with real-time feedback | JavaScript, AI |
-
-### Full Stack Web
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [CodeVisualizer](https://github.com/Pratham4040/CodeVisualizer) | Step-by-step code execution visualizer | Python, React, TypeScript |
-| [Ai-Notes-Generator](https://github.com/Pratham4040/Ai-Notes-Generator) | Smart notes generator powered by Gemini AI | HTML, JavaScript, Gemini API |
-| [Print-IT](https://github.com/Pratham4040/Print-IT) | Print vending machine web interface | HTML, CSS, JavaScript |
-| [PortfolioWebsite](https://github.com/Pratham4040/PortfolioWebsite) | My personal portfolio website | HTML, CSS, JavaScript |
-
----
-
-## GitHub Stats & Contributions
-
-|  |  |
-|---|---|
-| **Repositories** | 18 public |
-| **Followers** | 3 |
-| **Following** | 2 |
-
 <br>
 
 <p align="center">
